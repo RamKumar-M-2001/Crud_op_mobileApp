@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "426647569305",
+    "project_id": "master-flutter-app-92ed8",
+    "storage_bucket": "master-flutter-app-92ed8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426647569305:android:13a54541b14221357e4908",
+        "android_client_info": {
+          "package_name": "com.mastergo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM1OHq_bVdIeCRF3GaRHYSYsObvgk1Dr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
